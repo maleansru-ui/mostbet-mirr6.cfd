@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://mostbet-mirr6.cfd/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://mostbet-mirr6.cfd/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mostbet-mirr6.cfd/"/>
+    <image:image>
+      <image:loc>https://mostbet-mirr6.cfd/assets/img/mostbet-registraciya-novichku.webp</image:loc>
+      <image:title>Мостбет регистрация для новичка</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://mostbet-mirr6.cfd/assets/img/anketa-mostbet-telefon.webp</image:loc>
+      <image:title>Анкета регистрации Mostbet на телефоне</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://mostbet-mirr6.cfd/assets/img/verifikaciya-kyc-mostbet.webp</image:loc>
+      <image:title>Верификация KYC в Мостбет</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://mostbet-mirr6.cfd/assets/img/promokod-mostbonus-aktivaciya.webp</image:loc>
+      <image:title>Мостбет регистрация с промокодом MOSTBONS150</image:title>
+    </image:image>
+  </url>
+</urlset>
